@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.085cde64.chunk.css",
+    "main.js": "/static/js/main.e78c8156.chunk.js",
+    "main.js.map": "/static/js/main.e78c8156.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ff36ede.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ff36ede.js.map",
+    "static/js/2.d4921ae3.chunk.js": "/static/js/2.d4921ae3.chunk.js",
+    "static/js/2.d4921ae3.chunk.js.map": "/static/js/2.d4921ae3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.90015671af0a62789acb6107f79de27e.js": "/precache-manifest.90015671af0a62789acb6107f79de27e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.085cde64.chunk.css.map": "/static/css/main.085cde64.chunk.css.map",
+    "static/media/logo.png": "/static/media/logo.f8b070c0.png",
+    "static/media/LoginPage.scss": "/static/media/mountain_bg.378edaf1.jpg",
+    "static/media/Page.scss": "/static/media/tree_lake_bg.03e6841e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ff36ede.js",
+    "static/js/2.d4921ae3.chunk.js",
+    "static/css/main.085cde64.chunk.css",
+    "static/js/main.e78c8156.chunk.js"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/a04d0fd2-2d77-4b1a-8f46-289eb4267e56/resourceGroups/RecoVRyWebsite/providers/Microsoft.Web/sites/RecoVRy"
+}

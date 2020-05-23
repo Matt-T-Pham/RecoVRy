@@ -1,0 +1,7 @@
+C:\Users\mtp8\Desktop\RecoVRy\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\mtp8\Desktop\RecoVRy\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\mtp8\Desktop\RecoVRy\Client\Client\bin\Debug\Client.exe.config
+C:\Users\mtp8\Desktop\RecoVRy\Client\Client\bin\Debug\Client.exe
+C:\Users\mtp8\Desktop\RecoVRy\Client\Client\bin\Debug\Client.pdb
+C:\Users\mtp8\Desktop\RecoVRy\Client\Client\obj\Debug\Client.exe
+C:\Users\mtp8\Desktop\RecoVRy\Client\Client\obj\Debug\Client.pdb

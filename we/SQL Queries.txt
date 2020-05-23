@@ -1,0 +1,27 @@
+/* SQL sheet repalce '1' with whatever pid the user logged in with*/
+/* this is a patient sql query list */ 
+
+/* get the first name from pid*/
+select first_name 
+from information,patient
+where patient.pid = 1 and patient.ID = information.ID
+
+/* get the last name from pid */
+select last_name 
+from information,patient
+where patient.pid = 1 and patient.ID = information.ID
+
+/* get the therapist name from pid */
+select first_name,last_name
+from information, therapist
+where therapist.PID = 1 and information.ID = therapist.ID 
+
+/* get ALL workouts with a PID */ 
+select * 
+from workout 
+where workout.PID = 1
+
+/* get ALL the workout name with a pid */
+select ExerciseName
+from exercise, workout
+where workout.PID = 1 and workout.EID = exercise.EID

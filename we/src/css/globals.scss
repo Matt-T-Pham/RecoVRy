@@ -1,0 +1,17 @@
+$color-black: black;
+$color-white: white;
+$color-gray: gray;
+$color-cloud-blue: #727BBC;
+$color-light-blue: rgb(211,213,233);
+$color-hot-pink: #F24781;
+$color-mountain-blue: #2D4272;
+
+.Modal {
+    position: absolute;
+    width: 40%;
+    background-color: whitesmoke;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 1rem;
+}

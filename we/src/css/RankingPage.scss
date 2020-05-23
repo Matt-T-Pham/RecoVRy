@@ -1,0 +1,109 @@
+@import 'globals';
+
+.RankingPage {
+    display: flex;
+    height: 100%;
+
+    &__userDisplay {
+        width: 45%;
+        margin-right: 5%;
+        border-width: 1rem;
+        border-style: solid;
+        border-image: linear-gradient(to top, $color-light-blue, transparent) 1 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+        & > span {
+            font-size: 4rem;
+            font-weight: bold;
+        }
+
+        & > label {
+            font-size: 2rem;
+        }
+    }
+
+    &__listArea {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+
+        &--top {
+            display: inline-grid;
+            grid-template-columns: 33.3% 33.4% 33.3%;
+            justify-items: center;
+            width: 100%;
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 2rem;
+
+            & > div {
+                width: 8rem;
+                height: 8rem;
+                border-width: 7px;
+                border-style: solid;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: white;
+                text-align: center;
+
+                & > span {
+                    position: absolute;
+                    transform: translate(0, 4rem);
+                    color: rgb(100, 100, 100);
+                    font-size: 2rem;
+                }
+            }
+
+            &--rankOne {
+                border-image: linear-gradient(gold, goldenrod, gold) 1;
+            }
+
+            &--rankTwo {
+                border-image: linear-gradient(silver, gray, silver) 1;
+                transform: translate(0, .5rem);
+            }
+
+            &--rankThree {
+                border-image: linear-gradient(goldenrod, rgb(187, 86, 46), goldenrod) 1;
+                transform: translate(0, .5rem);
+            }
+        }
+
+        & > ul {
+            margin: 0;
+            height: 100%;
+            overflow: scroll;
+            padding: 0;
+        }
+
+        &--item {
+            padding: 0 1rem;
+            display: inline-grid;
+            width: 100%;
+            grid-template-columns: 3rem auto 3rem;
+            list-style-type: none;
+            height: 3rem;
+            align-items: center;
+            box-sizing: border-box;
+
+            &:nth-child(odd) {
+                background-color: rgba($color-light-blue, .4);
+            }
+
+            &:nth-child(even) {
+                background-color: transparent;
+            }
+
+            &--name {
+            }
+
+            &--score {
+                justify-self: end;
+            }
+        }
+    }
+}

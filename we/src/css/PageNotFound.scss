@@ -1,0 +1,16 @@
+@import "globals";
+
+.PageNotFound {
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    background-color: rgba($color-white, .5);
+
+    &__header {
+        margin: 0rem 0rem .5rem 0rem;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: normal;
+        color: $color-mountain-blue;
+        padding: 1.5rem;
+    }
+}

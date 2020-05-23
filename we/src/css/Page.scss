@@ -1,0 +1,22 @@
+@import "globals";
+
+body {
+    background-image: url("../images/tree_lake_bg.jpg");
+    background-size: 100% 100%;
+    width: 100vw;
+    height: 100vh;
+}
+
+.Page {
+    width: 100vw;
+    height: 100vh;
+
+    &__body {
+        width: 70%;
+        height: 75%;
+        margin: auto;
+        background-color: rgba($color-white, .9);
+        box-sizing: border-box;
+        padding: 3%;
+    }
+}

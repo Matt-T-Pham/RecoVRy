@@ -1,0 +1,7 @@
+C:\Users\mtp8\Desktop\RecoVRy\Client\Connector\obj\Debug\Connector.csproj.CoreCompileInputs.cache
+C:\Users\mtp8\Desktop\RecoVRy\Client\Connector\bin\Debug\Connector.exe.config
+C:\Users\mtp8\Desktop\RecoVRy\Client\Connector\bin\Debug\Connector.exe
+C:\Users\mtp8\Desktop\RecoVRy\Client\Connector\bin\Debug\Connector.pdb
+C:\Users\mtp8\Desktop\RecoVRy\Client\Connector\obj\Debug\Connector.exe
+C:\Users\mtp8\Desktop\RecoVRy\Client\Connector\obj\Debug\Connector.pdb
+C:\Users\mtp8\Desktop\RecoVRy\Client\Connector\obj\Debug\Connector.csprojAssemblyReference.cache

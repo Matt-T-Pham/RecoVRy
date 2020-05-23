@@ -1,0 +1,21 @@
+C:\Users\mtp8\Desktop\RecoVRy\Client\Pipe\bin\Debug\Pipe.exe.config
+C:\Users\mtp8\Desktop\RecoVRy\Client\Pipe\bin\Debug\Pipe.exe
+C:\Users\mtp8\Desktop\RecoVRy\Client\Pipe\bin\Debug\Pipe.pdb
+C:\Users\mtp8\Desktop\RecoVRy\Client\Pipe\obj\Debug\Pipe.csprojAssemblyReference.cache
+C:\Users\mtp8\Desktop\RecoVRy\Client\Pipe\obj\Debug\Pipe.csproj.CoreCompileInputs.cache
+C:\Users\mtp8\Desktop\RecoVRy\Client\Pipe\obj\Debug\Pipe.exe
+C:\Users\mtp8\Desktop\RecoVRy\Client\Pipe\obj\Debug\Pipe.pdb
+C:\Users\Zachary Muhlestein\Desktop\RecoVRy\RecoVRy\Client\Pipe\bin\Debug\Pipe.exe.config
+C:\Users\Zachary Muhlestein\Desktop\RecoVRy\RecoVRy\Client\Pipe\bin\Debug\Pipe.exe
+C:\Users\Zachary Muhlestein\Desktop\RecoVRy\RecoVRy\Client\Pipe\bin\Debug\Pipe.pdb
+C:\Users\Zachary Muhlestein\Desktop\RecoVRy\RecoVRy\Client\Pipe\obj\Debug\Pipe.csprojAssemblyReference.cache
+C:\Users\Zachary Muhlestein\Desktop\RecoVRy\RecoVRy\Client\Pipe\obj\Debug\Pipe.csproj.CoreCompileInputs.cache
+C:\Users\Zachary Muhlestein\Desktop\RecoVRy\RecoVRy\Client\Pipe\obj\Debug\Pipe.exe
+C:\Users\Zachary Muhlestein\Desktop\RecoVRy\RecoVRy\Client\Pipe\obj\Debug\Pipe.pdb
+C:\Users\mtp8\Documents\GitHub\alltestitems\RecoVRy\Client\Pipe\bin\Debug\Pipe.exe.config
+C:\Users\mtp8\Documents\GitHub\alltestitems\RecoVRy\Client\Pipe\bin\Debug\Pipe.exe
+C:\Users\mtp8\Documents\GitHub\alltestitems\RecoVRy\Client\Pipe\bin\Debug\Pipe.pdb
+C:\Users\mtp8\Documents\GitHub\alltestitems\RecoVRy\Client\Pipe\obj\Debug\Pipe.csprojAssemblyReference.cache
+C:\Users\mtp8\Documents\GitHub\alltestitems\RecoVRy\Client\Pipe\obj\Debug\Pipe.exe
+C:\Users\mtp8\Documents\GitHub\alltestitems\RecoVRy\Client\Pipe\obj\Debug\Pipe.pdb
+C:\Users\mtp8\Documents\GitHub\alltestitems\RecoVRy\Client\Pipe\obj\Debug\Pipe.csproj.CoreCompileInputs.cache

@@ -1,0 +1,154 @@
+@import "globals";
+
+.Patients {
+    &__list {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        max-width: 260px;
+
+        &--style {
+                background-color: $color-light-blue;
+                border: 1px gray solid;
+                position: relative;
+                overflow: auto;
+                height: 100%; // Should the list grow or start at max length?
+        }
+    }
+
+    &__window {
+        border: gray 1px solid;
+        width: 100%;
+        background-color: $color-light-blue;
+        margin-left: 1rem;
+        padding: 1rem;
+
+        &__header {
+            display: flex;
+            align-items: center;
+            height: 15%;
+
+            & > h2 {
+                margin-right: .75em;
+            }
+
+            & > img {
+                height: 1.5em;
+                margin: 0 .75em;
+
+                &:hover {
+                    cursor: pointer;
+                    filter: invert(30%);
+                }
+            }
+        }
+
+        &__workouts {
+            display: flex;
+            height: 100%;
+            
+            &__list {
+                width: 100%;
+                position: relative;
+                overflow: auto;
+                height: 80%;
+                box-sizing: border-box;
+
+                &__day {
+                    border: 1px solid gray;
+                    min-width: 1.2rem;
+                    text-align: center;
+
+                    &:hover {
+                        cursor: pointer;
+                    }
+                }
+
+                & ul {
+                    background-color: $color-light-blue
+                }
+            }
+        }
+    }
+
+    &__modal {
+
+        &__form {
+            display: grid;
+            grid-template-columns: 25% 25% 25% 25%;
+            grid-template-rows: auto;
+            grid-template-areas:
+                "a a b b"
+                "c c d d"
+                "e e e e"
+                "f f g g"
+                "h h h h";
+        }
+    }
+}
+
+.WorkoutBuilder {
+    display: flex;
+    flex-basis: 2 3;
+
+    &__available {
+        width: 45%;
+    }
+
+    &__selected {
+        width: 55%;
+
+        & img {
+            
+            &:hover {
+                cursor: pointer;
+                background-color: lightgray;
+            }
+        }
+
+        &--reps {
+            display: flex;
+            align-items: center;
+        }
+
+        &__carets {
+            display: flex;
+            flex-direction: column;
+        }
+    }
+}
+
+#WorkoutBuilderModal {
+    min-height: 60%;
+}
+
+#Create-Workout-Button {
+    position: sticky;
+    bottom: 0;
+    background-color: $color-light-blue
+}
+
+#Available-Workouts {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#Workout-Confirmation-div {
+    display: flex;
+    align-items: center;
+    width: 60%;
+    margin: 0 20%;
+
+    & img {
+        padding: .75rem;
+        margin: -.75rem;
+        margin-left: .25rem;
+
+        &:hover {
+            cursor: pointer;
+            background-color: $color-light-blue;
+            filter: hue-rotate(60);
+        }
+    }
+}
